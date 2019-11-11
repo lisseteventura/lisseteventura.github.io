@@ -18,11 +18,6 @@ $("#up").on("click", function() {
   );
 });
 
-AOS.init({
-  easing: "ease",
-  duration: 1800
-});
-
 // //when user clicks up button it scrolls to the topFunction
 // function topFunction() {
 //   document.body.scrollTop = 0;
