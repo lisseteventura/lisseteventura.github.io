@@ -295,7 +295,7 @@ li {
   margin-bottom: 0;
 }
 
-.profile-img {
+.portfolio-img {
   flex: 1;
 }
 
@@ -407,7 +407,10 @@ form {
   width: 70%;
   margin: auto;
 }
-
+.fa-paper-plane {
+  font-size: 5rem;
+  padding-left: 18rem;
+}
 form label {
   font-size: 1.5rem;
 }
