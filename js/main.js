@@ -24,6 +24,10 @@ AOS.init({
   once: true
 });
 
+$(function() {
+  AOS.init();
+});
+
 // //when user clicks up button it scrolls to the topFunction
 // function topFunction() {
 //   document.body.scrollTop = 0;
